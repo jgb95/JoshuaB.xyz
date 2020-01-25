@@ -1,0 +1,13 @@
+baseURL = "https://joshuab.xyz/"
+languageCode = "en-us"
+title = "JoshuaB.xyz"
+theme = "aether"
+#googleAnalytics = "Your google analytics tracking ID - optional"
+#disqusShortname = "Your shortname for Disqus - optional"
+
+[params]
+brand = "JoshuaB.xyz"
+description = "The online home of Joshua B."
+#homeimg = "URL to the image used for the home button at the bottom of each post - optional"
+bgimg = "/images/bg.jpg"
+rssinmenu = false
