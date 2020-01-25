@@ -11,7 +11,7 @@ displayInList: true
 
 resources:
 - name: featuredImage
-  src: "/uploads/My-First-Post.jpg"
+  src: "/albums/Cane Creek 2020-01-19/20200119_141402.jpg"
   params:
-    description: "My First Post"
+    description: "Cane Creek 2020-01-19"
 ---
