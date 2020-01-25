@@ -10,7 +10,7 @@ displayInList: home page and category pages (true, false)
 
 resources:
 - name: featuredImage
-  src: "/uploads/{{ title .Name}}.jpg"
+  src: "{{ title .Name}}.jpg"
   params:
     description: "{{ replace .Name "-" " " | title }}"
 ---
