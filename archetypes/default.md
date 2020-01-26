@@ -7,6 +7,7 @@ description: "Description of the post (displayed in the post's card)"
 categories: ["cat1", "cat2"]
 displayInMenu: navigation menu (true, false)
 displayInList: home page and category pages (true, false)
+dropCap: false
 
 resources:
 - name: featuredImage
