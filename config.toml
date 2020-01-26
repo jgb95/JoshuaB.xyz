@@ -8,6 +8,6 @@ theme = "aether"
 [params]
 brand = "JoshuaB.xyz"
 description = "The online home of Joshua B."
-#homeimg = "URL to the image used for the home button at the bottom of each post - optional"
+homeimg = "/images/homebg.jpg"
 bgimg = "/images/bg.jpg"
 rssinmenu = false
