@@ -20,4 +20,4 @@ resources:
 
 This is just a test post on my new website. Hopefully there will be more to come soon!
 
-#### [Full Album](https://joshuab.xyz/albums/cane%20creek%202020-01-19/)
+#### [Full Album](/albums/Cane%20Creek%202020-01-19/)
